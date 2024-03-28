@@ -269,7 +269,7 @@ title: Publications
             <p style="font-size:18px;">
                 [<b>TKDD</b> <span style="color: blue"> CCF B</span>]  <br />
                 <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u> <br />
-                 <b>ACM Transactions on Knowledge Discovery fromData </b>(2023). <br />
+                 <b>ACM Transactions on Knowledge Discovery from Data </b>(2023). <br />
                  <b>Hong Zhao</b>, Zhengyu Li, Wenwei He, Yan Zhao, et. al. <br />
                 [<a href="https://dl.acm.org/doi/abs/10.1145/3653717">Paper</a>] 
                 [<a href="https://github.com/fhqxa/lzy_HCKC">Code</a>]
