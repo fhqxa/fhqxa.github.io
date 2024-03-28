@@ -28,6 +28,8 @@ title: Teams
 
 **组内研究情况**
 
+
+
 ---
 
 ## Post-Graduation Path
@@ -59,6 +61,8 @@ title: Teams
 - 2018级郑炜杰就职于**专利审查福建中心**。
 - 2015级余胜龙就职于**融微软件服务有限公司**。
 
+
+
 ---
 
 ## Some Group Photos
@@ -74,4 +78,3 @@ title: Teams
 <img src="/images/bianji2.jpg">
 <img src="/images/bianji3.jpg">
 </div>
-
