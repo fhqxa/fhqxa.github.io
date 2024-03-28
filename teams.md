@@ -19,7 +19,7 @@ title: Teams
 
 ## Post-Graduation Path
 
-### Pursuing a Doctoral Degree
+**Pursuing a Doctoral Degree**
 
 - 2020级吴志平于2022年至**南京大学**任科研助理。
 - 2020级苏玉玲于2023年至**合肥工业大学**攻读博士学位。
@@ -29,7 +29,7 @@ title: Teams
 - 2013级范安静于2016年-2019年在**武汉大学**攻读博士学位.。
 - 2013级李香菊于2016年9月在**东北大学**攻读博士学位。
 
-### Employed at a Higher Education Institution
+**Employed at a Higher Education Institution**
 
 - 2020级赵威就职于**莆田学院**。
 - 2015级脱倩娟就职于**陕西科技大学镐京学院**。
@@ -38,7 +38,7 @@ title: Teams
 - 2013级范安静于2019年就职于**安阳师范学院**。
 - 2013级李香菊于2021年就职于**山东科技大学**。
 
-### Employed in an Enterprise or Public Institution
+**Employed in an Enterprise or Public Institution**
 
 - 2020级李征宇就职于**专利审查福建中心**。
 - 2020级张中就职于**漳州信息产业集团**。
