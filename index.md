@@ -13,27 +13,82 @@ layout: page
 
 ## Projects Undertaken
 
-- 
-- 
-- 
-- 
+- 跨任务场景下基于多粒度知识进化的小样本学习，**国家自然科学基金面上项目**，62376114，2024/01-2027/12，49万，主持。
+- 知识与数据双向驱动下的层次化小样本学习，**国家自然科学基金专项项目**， 62141602，2022/01-2022/12，12万，主持。
+- 面向大数据分层分类学习的多粒度计算模型和算法，**国家自然科学基金青年项目**，61703196，2018/01-2020/12，25万，主持。
+- 面向长尾分布数据的多粒度分层学习，**福建省自然科学基金项目**，2021J011003， 2021/11-2024/11，7万，主持。
+- 面向分层分类数据的多粒度方法研究，**福建省自然科学基金项目**，2018J01549， 2018/04-2021/04，7万，主持。
 
 ---
 
 ## Research Interests
 
-- Artificial Intelligence
-- Deep Learning
-- Feature Selection
-- Few-Shot Learning
-- Long-Tailed classification
+- **Artificial Intelligence**
+- **Deep Learning**
+- **Feature Selection**
+- **Few-Shot Learning**
+- **Long-Tailed classification**
 
 ---
 
 ## Personal Representative Papers
 
-- 
-- 
-- 
-- 
-- 
+<table class="imgtable">
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                [<b>TKDE</b> <span style="color: blue"> CCF A</span>]  <br />
+                <u>A recursive regularization based feature selection framework for hierarchical classification</u> <br />
+                 <b>IEEE Transactions on Knowledge and Data Engineering </b>(2021). <br />
+                <b>Hong Zhao</b>, Qinghua Hu, Pengfei Zhu, Yu Wang, Ping Wang, et. al. <br />
+             </p>
+    </td>
+</tr>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                [<b>TNNLS</b> <span style="color: blue"> CCF B</span>]  <br />
+                <u>CSTS: Exploring class-specific and task-shared embedding representation for few-shot learning</u> <br />
+                 <b>IEEE Transactions on Neural Networks and Learning Systems </b>(2024). <br />
+                <b>Hong Zhao</b>, Yuling Su, et. al. <br />
+            </p>
+        </td>
+</tr>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                [<b>TFS</b> <span style="color: blue"> CCF B</span>]  <br />
+                <u>Fuzzy rough set based feature selection for large-scale hierarchical classification</u> <br />
+                 <b>IEEE Transactions on Fuzzy Systems </b>(2019). <br />
+                <b>Hong Zhao</b>, Ping Wang, Qinghua Hu, et. al. <br />
+            </p>
+        </td>
+</tr>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                [<b>TKDD</b> <span style="color: blue"> CCF B</span>]  <br />
+                <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u> <br />
+                 <b>ACM Transactions on Knowledge Discovery fromData </b>(2024). <br />
+                 <b>Hong Zhao</b>, Zhengyu Li, Wenwei He, Yan Zhao, et. al. <br />
+            </p>
+        </td>
+</tr>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                [<b>INS</b> <span style="color: blue"> CCF B</span>]  <br />
+                <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u> <br />
+                 <b>Information Sciences </b>(2021). <br />
+                 <b>Hong Zhao</b>, Shunxin Guo, Yaojin Lin, et. al. <br />
+            </p>
+        </td>
+</tr>
