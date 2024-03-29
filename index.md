@@ -48,7 +48,7 @@ layout: page
         <td colspan="2" align="top">
             <p style="font-size:18px;">
                 [<b>TKDE</b> <span style="color: blue"> CCF A</span>]  <br />
-                <u>A recursive regularization based feature selection framework for hierarchical classification</u> <br />
+                <u>A recursive regularization based feature selection framework for hierarchical classification</u>		[<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/00%202021TKDE%20%E8%B5%B5%E7%BA%A2%20CCF%20A.pdf">Paper</a>] <br />
                  <b>IEEE Transactions on Knowledge and Data Engineering </b>(2021). <br />
                 <b>Hong Zhao</b>, Qinghua Hu, Pengfei Zhu, Yu Wang, Ping Wang, et. al. <br />
              </p>
@@ -102,3 +102,4 @@ layout: page
             </p>
         </td>
 </tr>
+
