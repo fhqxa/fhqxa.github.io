@@ -22,7 +22,7 @@ title: Publications
                 <u>Few-shot Learning with Multi-Granularity Knowledge Fusion and Decision-Making</u> <br />
                  <b>IEEE Transactions on Big Data </b>(2024). <br />
                 Yuling Su, <b>Hong Zhao*</b>, Yifeng Zheng, Yu Wang, et. al. <br />
-                [<a href="https://ieeexplore.ieee.org/abstract/document/10382622">Paper</a>] 
+                [<a href="https://hideness.github.io/2024TBD通讯 SCI二区苏玉玲.pdf">Paper</a>] 
                 [<a href="https://github.com/fhqxa/MGKFD">Code</a>]
             </p>
         </td>
@@ -50,6 +50,7 @@ title: Publications
         </td>
     </tr>
 </table>
+
 
 <table class="imgtable">
     <tr>
