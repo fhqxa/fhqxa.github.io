@@ -5,6 +5,15 @@ title: Teams
 
 ---
 
+## NEWS
+
+[2024/03]&nbsp;&nbsp;"<u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u>" has been published on <b>ACM Transactions on Knowledge Discovery from Data (TKDD)</b>. <br />
+[2024/01]&nbsp;&nbsp;"<u>ECS-SC: Long-tailed classification via data augmentation based on easily confused sample selection and combination</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br />
+[2023/12]&nbsp;&nbsp;"<u>CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning</u>" has been published on <b>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</b>. <br />
+[2023/08]&nbsp;&nbsp;"<u>FS-MGKC: Feature selection based on structural manifold learning with multi-granularity knowledge coordination</u>" has been published on <b>Information Sciences (INS)</b>. <br />
+
+---
+
 ## Post-Graduation Path
 
 **Pursuing a Doctoral Degree**<br>
