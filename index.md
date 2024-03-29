@@ -60,7 +60,7 @@ layout: page
         <td colspan="2" align="top">
             <p style="font-size:18px;">
                 [<b>TNNLS</b> <span style="color: blue"> CCF B</span>]  <br />
-                <u>CSTS: Exploring class-specific and task-shared embedding representation for few-shot learning</u> <br />
+                <u>CSTS: Exploring class-specific and task-shared embedding representation for few-shot learning</u>		[<a>Paper</a>] <br />
                  <b>IEEE Transactions on Neural Networks and Learning Systems </b>(2024). <br />
                 <b>Hong Zhao</b>, Yuling Su, et. al. <br />
             </p>
@@ -72,7 +72,7 @@ layout: page
         <td colspan="2" align="top">
             <p style="font-size:18px;">
                 [<b>TFS</b> <span style="color: blue"> CCF B</span>]  <br />
-                <u>Fuzzy rough set based feature selection for large-scale hierarchical classification</u> <br />
+                <u>Fuzzy rough set based feature selection for large-scale hierarchical classification</u>		[<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/01%202019TFS%20%E8%B5%B5%E7%BA%A2%20SCI%E4%B8%80%E5%8C%BA.pdf">Paper</a>] <br />
                  <b>IEEE Transactions on Fuzzy Systems </b>(2019). <br />
                 <b>Hong Zhao</b>, Ping Wang, Qinghua Hu, et. al. <br />
             </p>
@@ -84,19 +84,20 @@ layout: page
         <td colspan="2" align="top">
             <p style="font-size:18px;">
                 [<b>TKDD</b> <span style="color: blue"> CCF B</span>]  <br />
-                <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u> <br />
+                <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u>		[<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Long-Tailed%20classification/2024TKDD%20SCI%E4%B8%89%E5%8C%BA%E6%9D%8E%E5%BE%81%E5%AE%87.pdf">Paper</a>] <br />
                  <b>ACM Transactions on Knowledge Discovery fromData </b>(2024). <br />
                  <b>Hong Zhao</b>, Zhengyu Li, Wenwei He, Yan Zhao, et. al. <br />
             </p>
         </td>
 </tr>
 
+
 <table class="imgtable">
     <tr>
         <td colspan="2" align="top">
             <p style="font-size:18px;">
                 [<b>INS</b> <span style="color: blue"> CCF B</span>]  <br />
-                <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u> <br />
+                <u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u>		[<a>Paper</a>] <br />
                  <b>Information Sciences </b>(2021). <br />
                  <b>Hong Zhao</b>, Shunxin Guo, Yaojin Lin, et. al. <br />
             </p>
