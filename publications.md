@@ -28,7 +28,6 @@ title: Publications
         </td>
     </tr>
 </table>
-
 <table class="imgtable">
     <tr>
         <td colspan="2">
@@ -115,6 +114,7 @@ title: Publications
         </td>
     </tr>
 </table>
+
 
 <table class="imgtable">
     <tr>
