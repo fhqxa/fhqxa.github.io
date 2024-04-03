@@ -44,7 +44,7 @@ title: Publications
                 <u>CSTS: Exploring class-specific and task-shared embedding representation for few-shot learning</u> <br />
                  <b>IEEE Transactions on Neural Networks and Learning Systems </b>(2024). <br />
                 <b>Hong Zhao </b>, Yuling Su, et. al. <br />
-                [<a>Paper</a>] 
+                [<a href=“https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Few-Shot%20Learning/2024TNNLS%20%E9%80%9A%E8%AE%AF%20SCI%E4%BA%8C%E5%8C%BA%20%E8%8B%8F%E7%8E%89%E7%8E%B2.pdf”>Paper</a>] 
                 [<a href="https://github.com/fhqxa/CSTS">Code</a>]
             </p>
         </td>
@@ -343,4 +343,3 @@ title: Publications
         </td>
     </tr>
 </table>
-
