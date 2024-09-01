@@ -66,7 +66,7 @@ title: Publications
                 <u>HMRM: Hierarchy-awareness misclassification risk minimization for few-shot learning</u> <br />
                  <b>Expert Systems with Applications </b>(2024). <br />
                 Jie Jin, <b>Hong Zhao*</b>, et. al. <br />
-                [<a>Paper</a>] 
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Few-Shot%20Learning/2024ESWA%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%E9%87%91%E6%9D%B0.pdf">Paper</a>] 
                 [<a href="https://github.com/fhqxa/HMRM">Code</a>]
             </p>
         </td>
@@ -116,6 +116,7 @@ title: Publications
 </table>
 
 
+
 <table class="imgtable">
     <tr>
         <td colspan="2">
@@ -144,6 +145,27 @@ title: Publications
 
 ## Feature Selection
 
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
+            <a href="/images/DMTFS-FO.jpg">
+                <img src="/images/DMTFS-FO.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                [<b>ESWA</b> <span style="color: blue"> CCF C</span>]  <br />
+                <u>DMTFS-FO: Dynamic multi-task feature selection based on flexible loss and orthogonal constraint</u> <br />
+                 <b>Expert Systems With Applications </b>(2024). <br />
+                Yang Zhang, Jie Shi, <b>Hong Zhao*, </b> et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/2024ESWA%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%E5%BC%A0%E9%98%B3.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/DMTFS-FO">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
 <table class="imgtable">
     <tr>
         <td colspan="2">
@@ -186,6 +208,7 @@ title: Publications
         </td>
     </tr>
 </table>
+
 
 <table class="imgtable">
     <tr>
