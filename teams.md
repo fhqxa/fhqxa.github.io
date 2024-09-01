@@ -47,21 +47,21 @@ title: Teams
 ## Some Group Photos
 
 <div class="third">
-<img src="/images/huiyi1.jpg">
-<img src="/images/huiyi3.jpg">
-<img src="/images/huiyi2.jpg">
+<img src="/images/huiyi1.jpg", height:=100px>
+<img src="/images/huiyi3.jpg", height:=100px>
+<img src="/images/huiyi2.jpg", height:=100px>
+</div>
+<div class="third">
+<img src="/images/bianji1.jpg", height:=100px>
+<img src="/images/bianji2.jpg", height:=100px>
+<img src="/images/bianji3.jpg", height:=100px>
+</div>
+<div class="third">
+<img src="/images/lianyungang1.jpg", height:=100px>
+<img src="/images/lianyungang2.jpg", height:=100px>
+<img src="/images/lianyungang3.jpg", height:=100px>
 </div>
 
-<div class="third">
-<img src="/images/bianji1.jpg">
-<img src="/images/bianji2.jpg">
-<img src="/images/bianji3.jpg">
-</div>
-<div class="third">
-<img src="/images/lianyungang1.jpg">
-<img src="/images/lianyungang2.jpg">
-<img src="/images/lianyungang3.jpg">
-</div>
 
 
 ---
