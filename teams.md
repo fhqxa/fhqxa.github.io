@@ -7,6 +7,8 @@ title: Teams
 
 ## NEWS
 
+[2024/06]&nbsp;&nbsp;"<u>DMTFS-FO: Dynamic multi-task feature selection based on flexible loss and orthogonal constraint</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br />
+
 [2024/04]&nbsp;&nbsp;"<u>HMRM: Hierarchy-awareness misclassification risk minimization for few-shot learning</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />[2024/03]&nbsp;&nbsp;"<u>Hierarchical convolutional neural network with knowledge complementation for long-tailed classification</u>" has been published on <b>ACM Transactions on Knowledge Discovery from Data (TKDD)</b>. <br /><br />[2024/01]&nbsp;&nbsp;"<u>ECS-SC: Long-tailed classification via data augmentation based on easily confused sample selection and combination</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />[2023/12]&nbsp;&nbsp;"<u>CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning</u>" has been published on <b>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</b>. <br /><br />[2023/08]&nbsp;&nbsp;"<u>FS-MGKC: Feature selection based on structural manifold learning with multi-granularity knowledge coordination</u>" has been published on <b>Information Sciences (INS)</b>. <br />
 
 ---
@@ -15,7 +17,7 @@ title: Teams
 
 **Pursuing a Doctoral Degree**<br>
 
-- 2020级吴志平于2022年至**南京大学**任科研助理。
+- 2020级吴志平于2022年至**南京大学**任科研助理，2024年至**南京大学**攻读博士学位。
 - 2020级苏玉玲于2023年至**合肥工业大学**攻读博士学位。
 - 2019级贾霄于2022年至**河海大学**攻读博士学位。
 - 2018级郭顺心于2021年9月至**东南大学**攻读博士学位。
@@ -55,6 +57,12 @@ title: Teams
 <img src="/images/bianji2.jpg">
 <img src="/images/bianji3.jpg">
 </div>
+<div class="third">
+<img src="/images/lianyungang1.jpg">
+<img src="/images/lianyungang2.jpg">
+<img src="/images/lianyungang3.jpg">
+</div>
+
 
 ---
 
