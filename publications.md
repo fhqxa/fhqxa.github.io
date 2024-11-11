@@ -222,7 +222,26 @@ title: Publications
         </td>
     </tr>
 </table>
-
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
+            <a href="/images/HCFS.jpg">
+                <img src="/images/HCFS.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>Hierarchical feature selection with multi-granularity clustering structure</u> <br />
+                 <b>INS </b>(2021). <br />
+                Shunxin Guo, <b>Hong Zhao*, Wenyuan Yang,</b> et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/2021%20INS%20%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%20%20%E9%83%AD%E9%A1%BA%E5%BF%83.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/HCFS">Code</a>] 
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 
@@ -353,4 +372,3 @@ title: Publications
         </td>
     </tr>
 </table>
-
