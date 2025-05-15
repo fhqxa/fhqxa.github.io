@@ -7,6 +7,49 @@ title: Publications
 
 ## Few-Shot Learning
 
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
+            <a href="/images/FSAKE.jpg">
+                <img src="/images/FSAKE.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u> <br />
+                 <b>ESWA </b>(2025). <br />
+                Linhua Zou, Jie Jin, Dongqing Li, <b>Hong Zhao*</b>, et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Few-Shot%20Learning/2025ESWA%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%E9%82%B9%E6%9E%97%E5%8D%8E.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/FSAKE">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
+            <a href="/images/FSPDF.jpg">
+                <img src="/images/FSPDF.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>FSPDF: Few-shot learning with progressive dual-domain feature fusion via self-supervised learning</u> <br />
+                 <b>KBS </b>(2025). <br />
+                Dongqing Li, Jie Jin, Linhua Zou, <b>Hong Zhao*</b>, et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Few-Shot%20Learning/2025KBS%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%E6%9D%8E%E5%86%AC%E5%8D%BF.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/FSPDF">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
+
 <table class="imgtable">
     <tr>
         <td colspan="2">
@@ -143,6 +186,27 @@ title: Publications
 <table class="imgtable">
     <tr>
         <td colspan="2">
+            <a href="/images/PHFS.jpg">
+                <img src="/images/PHFS.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>PHFS: Progressive Hierarchical Feature Selection Based on Adaptive Sample Weighting</u> <br />
+                 <b>TNNLS </b>(2025). <br />
+                <b>Hong Zhao</b>, Jie Shi, Yang Zhang, et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/2025TNNLS%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%E7%9F%B3%E6%9D%B0.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/PHFS">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
             <a href="/images/DMTFS-FO.jpg">
                 <img src="/images/DMTFS-FO.jpg" alt="alt text" style="width:100%; height:auto;" />
             </a>
@@ -248,6 +312,27 @@ title: Publications
 ---
 
 ## Long-Tailed classification
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
+            <a href="/images/DPA-EI.jpg">
+                <img src="/images/DPA-EI.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>DPA-EI: Long-tailed classification by dual progressive augmentation from explicit and implicit perspectives</u> <br />
+                 <b>KBS </b>(2025). <br />
+                Yan Zhao, Wenwei He, <b>Hong Zhao*</b>, et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Long-Tailed%20classification/2025KBS%20%E9%80%9A%E8%AE%AF%20SCI%E4%B8%80%E5%8C%BA%20%E8%B5%B5%E5%A6%8D.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/DPA-EI">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
 
 <table class="imgtable">
     <tr>
