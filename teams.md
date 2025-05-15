@@ -6,7 +6,11 @@ title: Teams
 ---
 
 ## NEWS
-
+[2025/04]&nbsp;&nbsp;"<u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />
+[2025/04]&nbsp;&nbsp;"<u>Multi-granularity Awareness via Cross Fusion for Few-Shot Learning</u>" has been published on <b>Information Sciences (INS)</b>. <br />
+[2025/02]&nbsp;&nbsp;"<u>FSPDF: Few-shot learning with progressive dual-domain feature fusion via self-supervised learning</u>" has been published on <b>Knowledge-Based Systems (KBS)</b>. <br /><br />
+[2025/01]&nbsp;&nbsp;"<u>DPA-EI: Long-tailed classification by dual progressive augmentation from explicit and implicit perspectives</u>" has been published on <b>Knowledge-Based Systems (KBS)</b>. <br /><br />
+[2024/12]&nbsp;&nbsp;"<u>PHFS: Progressive Hierarchical Feature Selection Based on Adaptive Sample Weighting</u>" has been published on <b>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</b>. <br /><br />
 [2024/08]&nbsp;&nbsp;"<u>基于自适应原型特征类矫正的小样本学习方法</u>" has been published on <b>自动化学报</b>. <br /><br />
 [2024/06]&nbsp;&nbsp;"<u>DMTFS-FO: Dynamic multi-task feature selection based on flexible loss and orthogonal constraint</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />
 [2024/04]&nbsp;&nbsp;"<u>HMRM: Hierarchy-awareness misclassification risk minimization for few-shot learning</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />
