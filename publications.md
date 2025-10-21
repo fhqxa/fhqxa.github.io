@@ -6,7 +6,26 @@ title: Publications
 ---
 
 ## Few-Shot Learning
-
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
+            <a href="/images/FCGNN.jpg">
+                <img src="/images/FCGNN.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u> <br />
+                 <b>ESWA </b>(2025). <br />
+                Linhua Zou, Dongqing Li, Chengxi Jiang, <b>Hong Zhao*</b>, et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Few-Shot%20Learning/2025TFS%20通讯%20CCF%20B%20邹林华.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/FCGNN">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
 
 <table class="imgtable">
     <tr>
