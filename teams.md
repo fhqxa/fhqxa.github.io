@@ -22,7 +22,8 @@ title: Teams
 ## Post-Graduation Path
 
 **Pursuing a Doctoral Degree**<br>
-
+- 2022级金杰于2025年至**华东师范大学**攻读博士学位。
+- 2021级石杰于2024年至**上海大学**攻读博士学位。
 - 2020级吴志平于2022年至**南京大学**任科研助理，2024年至**南京大学**攻读博士学位。
 - 2020级苏玉玲于2023年至**合肥工业大学**攻读博士学位。
 - 2019级贾霄于2022年至**河海大学**攻读博士学位。
@@ -66,6 +67,11 @@ title: Teams
 <img src="/images/lianyungang1.jpg">
 <img src="/images/lianyungang2.jpg">
 <img src="/images/lianyungang3.jpg">
+</div>
+<div class="third">
+<img src="/images/team24-1.jpeg">
+<img src="/images/team24-2.jpeg">
+<img src="/images/team24-3.jpeg">
 </div>
 
 
