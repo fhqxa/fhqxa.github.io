@@ -17,7 +17,7 @@ title: Publications
     <tr>
         <td colspan="2" align="top">
             <p style="font-size:18px;">
-                <u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u> <br />
+                <u>FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning</u> <br />
                  <b>TFS </b>(2025). <br />
                 Linhua Zou, Dongqing Li, Chengxi Jiang, <b>Hong Zhao*</b>, et. al. <br />
                 [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Few-Shot%20Learning/2025TFS%20通讯%20CCF%20B%20邹林华.pdf">Paper</a>] 
