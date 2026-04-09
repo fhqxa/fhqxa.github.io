@@ -205,7 +205,7 @@ title: Publications
 <table class="imgtable">
     <tr>
         <td colspan="2">
-            <a href="/images/DAFS.jpg">
+            <a href="/images/DAFS.png">
                 <img src="/images/DAFS.jpg" alt="alt text" style="width:100%; height:auto;" />
             </a>
         </td>
