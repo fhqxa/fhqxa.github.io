@@ -205,6 +205,27 @@ title: Publications
 <table class="imgtable">
     <tr>
         <td colspan="2">
+            <a href="/images/DAFS.jpg">
+                <img src="/images/DAFS.jpg" alt="alt text" style="width:100%; height:auto;" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="top">
+            <p style="font-size:18px;">
+                <u>DAFS:Adistribution-awarehierarchicalfeatureselectionmethodfor long-tailedclassiﬁcation</u> <br />
+                 <b>PR </b>(2026). <br />
+                YangZhang, <b>JieShi</b>, HongZhao* et. al. <br />
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/2026PR通讯SCI一区张阳.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/DAFS">Code</a>]
+            </p>
+        </td>
+    </tr>
+</table>
+
+<table class="imgtable">
+    <tr>
+        <td colspan="2">
             <a href="/images/PHFS.jpg">
                 <img src="/images/PHFS.jpg" alt="alt text" style="width:100%; height:auto;" />
             </a>
@@ -325,7 +346,6 @@ title: Publications
         </td>
     </tr>
 </table>
-
 
 
 ---

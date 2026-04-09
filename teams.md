@@ -6,6 +6,8 @@ title: Teams
 ---
 
 ## NEWS
+[2026/02]&nbsp;&nbsp;"<u>DAFS: A distribution-aware hierarchical feature selection method for
+long-tailed classification (PR)</b>. <br /><br />
 [2025/10]&nbsp;&nbsp;"<u>FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning</u>" has been published on <b>IEEE Transactions on Fuzzy Systems (TFS)</b>. <br /><br />
 [2025/04]&nbsp;&nbsp;"<u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />
 [2025/02]&nbsp;&nbsp;"<u>FSPDF: Few-shot learning with progressive dual-domain feature fusion via self-supervised learning</u>" has been published on <b>Knowledge-Based Systems (KBS)</b>. <br /><br />
@@ -34,7 +36,7 @@ title: Teams
 - 2013级李香菊于2016年9月在**东北大学**攻读博士学位。<br>
 
 **Employed at a Higher Education Institution**<br>
-
+- 2022级张阳就职于**厦门大学嘉庚学院**
 - 2020级赵威就职于**莆田学院**。
 - 2015级脱倩娟就职于**陕西科技大学镐京学院**。
 - 2015级董利梅就职于**毕节幼儿师范高等专科学校**。
