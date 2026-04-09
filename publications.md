@@ -216,7 +216,7 @@ title: Publications
                 <u>DAFS:Adistribution-awarehierarchicalfeatureselectionmethodfor long-tailedclassiﬁcation</u> <br />
                  <b>PR </b>(2026). <br />
                 YangZhang, <b>JieShi</b>, HongZhao* et. al. <br />
-                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/2026PR通讯SCI一区张阳.pdf">Paper</a>] 
+                [<a href="https://github.com/fhqxa/fhqxa.github.io/blob/main/mypaper/Feature%20Selection/2026PR%E9%80%9A%E8%AE%AFSCI%E4%B8%80%E5%8C%BA%E5%BC%A0%E9%98%B3.pdf">Paper</a>] 
                 [<a href="https://github.com/fhqxa/DAFS">Code</a>]
             </p>
         </td>
