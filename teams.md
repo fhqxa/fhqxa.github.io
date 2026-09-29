@@ -6,6 +6,9 @@ title: Teams
 ---
 
 ## NEWS
+
+[2027/02]&nbsp;&nbsp;"<u>Multi-scale and multi-level knowledge integration for long-tailed classification</u>" has been published on <b>Information Sciences</b>, Volume 761, Article 124152. <br /><br />
+[2026/12]&nbsp;&nbsp;"<u>OFMFS: Optimizing feature diversity via multi-angle and multi-scale self-supervised task for few-shot learning</u>" has been published on <b>Information Sciences</b>. <br /><br />
 [2026/02]&nbsp;&nbsp;"<u>DAFS: A distribution-aware hierarchical feature selection method for long-tailed classification</u>" has been published on <b>Pattern Recognition (PR)</b>. <br /><br />
 [2025/10]&nbsp;&nbsp;"<u>FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning</u>" has been published on <b>IEEE Transactions on Fuzzy Systems (TFS)</b>. <br /><br />
 [2025/04]&nbsp;&nbsp;"<u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />
@@ -24,6 +27,9 @@ title: Teams
 ## Post-Graduation Path
 
 **Pursuing a Doctoral Degree**<br>
+- 2023级邹林华于2026年至**中南大学**攻读博士学位。
+- 2023级李冬卿于2026年至**武汉理工大学**攻读博士学位。
+- 2023级赵妍于2026年至**合肥工业大学**攻读博士学位。
 - 2022级金杰于2025年至**华东师范大学**攻读博士学位。
 - 2021级石杰于2024年至**上海大学**攻读博士学位。
 - 2020级吴志平于2022年至**南京大学**任科研助理，2024年至**南京大学**攻读博士学位。
