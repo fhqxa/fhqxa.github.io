@@ -7,7 +7,7 @@ title: Teams
 
 ## NEWS
 
-[2027/02]&nbsp;&nbsp;"<u>Multi-scale and multi-level knowledge integration for long-tailed classification</u>" has been published on <b>Information Sciences (INS)</b> 
+[2027/02]&nbsp;&nbsp;"<u>Multi-scale and multi-level knowledge integration for long-tailed classification</u>" has been published on <b>Information Sciences (INS)</b>.
 <br /><br />
 [2026/12]&nbsp;&nbsp;"<u>OFMFS: Optimizing feature diversity via multi-angle and multi-scale self-supervised task for few-shot learning</u>" has been published on <b>Information Sciences (INS)</b>. <br /><br />
 [2026/02]&nbsp;&nbsp;"<u>DAFS: A distribution-aware hierarchical feature selection method for long-tailed classification</u>" has been published on <b>Pattern Recognition (PR)</b>. <br /><br />
