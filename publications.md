@@ -364,7 +364,7 @@ title: Publications
         <td colspan="2" align="top">
             <p style="font-size:18px;">
                 <u>Multi-scale and multi-level knowledge integration for long-tailed classification</u> <br />
-                <b>Information Sciences</b> (2026). Published online. <br />
+                <b>Information Sciences</b> (2027). <br />
                 Yanli Li, Yan Zhao, <b>Hong Zhao*</b>. <br />
                 [<a href="/mypaper/Long-Tailed%20classification/2027INS%20通讯%20SCI一区%20艳丽.pdf">Paper</a>]
                 [<a href="https://github.com/fhqxa/mmki">Code</a>]
