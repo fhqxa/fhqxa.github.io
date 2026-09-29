@@ -367,6 +367,7 @@ title: Publications
                 <b>Information Sciences</b> (2026). Published online. <br />
                 Yanli Li, Yan Zhao, <b>Hong Zhao*</b>. <br />
                 [<a href="/mypaper/Long-Tailed%20classification/2027INS%20通讯%20SCI一区%20艳丽.pdf">Paper</a>]
+                [<a href="https://github.com/fhqxa/mmki">Code</a>]
             </p>
         </td>
     </tr>
