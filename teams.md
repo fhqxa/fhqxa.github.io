@@ -7,8 +7,9 @@ title: Teams
 
 ## NEWS
 
-[2027/02]&nbsp;&nbsp;"<u>Multi-scale and multi-level knowledge integration for long-tailed classification</u>" has been published on <b>Information Sciences</b>, Volume 761, Article 124152. <br /><br />
-[2026/12]&nbsp;&nbsp;"<u>OFMFS: Optimizing feature diversity via multi-angle and multi-scale self-supervised task for few-shot learning</u>" has been published on <b>Information Sciences</b>. <br /><br />
+[2027/02]&nbsp;&nbsp;"<u>Multi-scale and multi-level knowledge integration for long-tailed classification</u>" has been published on <b>Information Sciences (INS)</b> 
+<br /><br />
+[2026/12]&nbsp;&nbsp;"<u>OFMFS: Optimizing feature diversity via multi-angle and multi-scale self-supervised task for few-shot learning</u>" has been published on <b>Information Sciences (INS)</b>. <br /><br />
 [2026/02]&nbsp;&nbsp;"<u>DAFS: A distribution-aware hierarchical feature selection method for long-tailed classification</u>" has been published on <b>Pattern Recognition (PR)</b>. <br /><br />
 [2025/10]&nbsp;&nbsp;"<u>FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning</u>" has been published on <b>IEEE Transactions on Fuzzy Systems (TFS)</b>. <br /><br />
 [2025/04]&nbsp;&nbsp;"<u>FSAKE: Few-shot graph learning via adaptive neighbor class knowledge embedding</u>" has been published on <b>Expert Systems with Applications (ESWA)</b>. <br /><br />
