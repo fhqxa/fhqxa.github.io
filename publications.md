@@ -20,6 +20,7 @@ title: Publications
                 <b>Information Sciences</b> (2026). <br />
                 Dongqing Li, Linhua Zou, Wencheng Lin, <b>Hong Zhao*</b>. <br />
                 [<a href="/mypaper/Few-Shot%20Learning/2026INS%20通讯%20CCFB%20李冬卿.pdf">Paper</a>]
+                [<a href="https://github.com/fhqxa/OFMFS">Code</a>]
             </p>
         </td>
     </tr>
